@@ -16,5 +16,3 @@ Found that www.penguinbooksindia.com has open ports for services like FTP and HT
 Detected vulnerabilities in software versions and operating systems.
 Conclusion
 The project demonstrates a methodical approach to identifying potential entry points and security weaknesses in a network, emphasizing the importance of ethical hacking in securing IT infrastructure.
-
-If you'd like, I can refine this information into a formal summary for professional purposes or prepare a presentation outline based on the report. Let me know how you'd like to proceed!
